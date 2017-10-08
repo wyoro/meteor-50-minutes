@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tasklist.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tasklist.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/tasklist.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -32,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasklist.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tasklist.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/tasklist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+            <state relative-caret-position="799">
+              <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -65,8 +65,8 @@
         <option value="$PROJECT_DIR$/app/.meteor/tasklist.js" />
         <option value="$PROJECT_DIR$/app/.meteor/tasklist.html" />
         <option value="$PROJECT_DIR$/app/fja.html" />
-        <option value="$PROJECT_DIR$/app/tasklist.js" />
         <option value="$PROJECT_DIR$/app/tasklist.html" />
+        <option value="$PROJECT_DIR$/app/tasklist.js" />
       </list>
     </option>
   </component>
@@ -282,18 +282,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/tasklist.js">
+    <entry file="file://$PROJECT_DIR$/app/tasklist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/tasklist.html">
+    <entry file="file://$PROJECT_DIR$/app/tasklist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="799">
+          <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
           <folding />
         </state>
       </provider>
